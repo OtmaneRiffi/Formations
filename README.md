@@ -4,7 +4,7 @@
 Final project for the Building AI course
 
 ## Summary
-This solution aims to determine the right number of dishes to prepare for food distribution while ensuring that all beneficiaries will have enough to eat and minimizing food waste. This solution must be based on previous food distributions and take into account many phenomena such as the weather, the day of the week, the season, the number of people during the previous distribution, and many others.
+This solution aims to determine the right number of dishes to prepare for food distribution while ensuring that all beneficiaries will have enough to eat and minimizing food waste.
 
 
 ## Background
@@ -20,6 +20,8 @@ This same problem can be found in company canteens. Indeed, with the Covid-19, m
 * problem 2: reduction of food waste.
 
 ## How is it used?
+This solution must be based on previous food distributions and take into account many phenomena such as the weather, the day of the week, the season, the number of people during the previous distribution, and many others.
+
 The tool will take the form of a website in which associations that so wish can enter their information from the day before, such as the number of meals distributed, the number of beneficiaries, the date, the duration, etc.
 The site will then suggest a number of meals to prepare and a confidence index. The model will have to constantly update itself and try to improve its performance.
 
